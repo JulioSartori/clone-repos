@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Repos\1ele705_sem7_assgn1_printdeck-JulioSartori2\main.c(93,22): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  1ELE705_SEM5_Assignm1_PrintDeck.vcxproj -> C:\Repos\1ele705_sem7_assgn1_printdeck-JulioSartori2\Debug\1ELE705_SEM5_Assignm1_PrintDeck.exe
